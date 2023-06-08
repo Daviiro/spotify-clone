@@ -16,21 +16,21 @@ export default function Home() {
 					<nav className="space-y-5">
 						<a
 							href=""
-							className="flex items gap-2 text-sm font-semibold text-zinc-100"
+							className="flex items-center gap-2 text-sm font-semibold text-zinc-100"
 						>
 							<HomeIcon />
 							Home
 						</a>
 						<a
 							href=""
-							className="flex items gap-2 text-sm font-semibold text-zinc-100"
+							className="flex items-center gap-2 text-sm font-semibold text-zinc-100"
 						>
 							<SearchIcon />
 							Pesquisa
 						</a>
 						<a
 							href=""
-							className="flex items gap-2 text-sm font-semibold text-zinc-100"
+							className="flex items-center gap-2 text-sm font-semibold text-zinc-100"
 						>
 							<LibraryIcon />
 							Sua Biblioteca
